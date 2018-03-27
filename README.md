@@ -4,9 +4,6 @@ frevvomapexec is a script to verify the existence of a blind SQL injection vulne
 
 ## Usage ##
 Usage: frevvomapexec.py [-h] -t TARGET -s SECONDS -o PORT [-u] [-p]
-
-        frevvomapexec - A nextgen CME that doesn't get popped by AV. 
-                        Unlike one of its predecessors.
             
         Proof of Concept script for validation of CVE-2018-8820.
          - Type of issue: Authenticated Blind SQL injection
